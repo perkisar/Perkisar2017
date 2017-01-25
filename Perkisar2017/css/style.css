@@ -721,6 +721,7 @@
 		margin-top:10px;
 		float:none;
 	}
+
 	.social span a {
 		color: #676767;
 	}
@@ -2103,7 +2104,7 @@ acronym { border-bottom:1px dotted #ccc; }
 	background-size: cover;
 }
 #seven-parallax {
-	background-image: url('demos/parallaxbg_01.jpg');
+	background-image: url('../images/header/code.jpeg');
 	background-attachment: fixed !important;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -2193,9 +2194,19 @@ acronym { border-bottom:1px dotted #ccc; }
     text-align: center; 
 }
 #heart i .fa { 
-    color: #ff4136;
+    color: #a2b881;
     font-size: 50px; 
     line-height: 50px; 
+}
+
+
+#heart > span {
+    padding:0 0 0 15px;
+    font-size:20px;
+}
+
+#heart i {
+    color:#a2b881;
 }
 
 @-webkit-keyframes heartbeat{

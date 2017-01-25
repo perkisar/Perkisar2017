@@ -61,9 +61,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="blog.html" />
-    <Content Include="cart.html" />
-    <Content Include="checkout.html" />
     <Content Include="css\animate.min.css" />
     <Content Include="css\bootstrap-theme.css" />
     <Content Include="css\bootstrap-theme.min.css" />
@@ -196,8 +193,6 @@
     <Content Include="images\prettyPhoto\light_square\sprite.png" />
     <Content Include="images\remove.png" />
     <Content Include="images\success.gif" />
-    <Content Include="index-animation.html" />
-    <Content Include="index-video.html" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\custom-portfolio.js" />
@@ -244,7 +239,6 @@
     <Content Include="rs-plugin\font\revicons.eot" />
     <Content Include="rs-plugin\font\revicons.ttf" />
     <Content Include="rs-plugin\font\revicons.woff" />
-    <Content Include="wishlist.html" />
     <Content Include="contact.php" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -320,11 +314,6 @@
     <Content Include="rs-plugin\js\jquery.themepunch.plugins.min.js" />
     <Content Include="rs-plugin\js\jquery.themepunch.revolution.js" />
     <Content Include="rs-plugin\js\jquery.themepunch.revolution.min.js" />
-    <Content Include="shop.html" />
-    <Content Include="shortcodes.html" />
-    <Content Include="single-portfolio.html" />
-    <Content Include="single-shop.html" />
-    <Content Include="single.html" />
     <Content Include="css\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
