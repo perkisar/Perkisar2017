@@ -1,0 +1,6 @@
+D:\Websites\Perkisar2017\Perkisar2017\bin\Perkisar2017.dll.config
+D:\Websites\Perkisar2017\Perkisar2017\bin\Perkisar2017.dll
+D:\Websites\Perkisar2017\Perkisar2017\bin\Perkisar2017.pdb
+D:\Websites\Perkisar2017\Perkisar2017\obj\Debug\Perkisar2017.csprojResolveAssemblyReference.cache
+D:\Websites\Perkisar2017\Perkisar2017\obj\Debug\Perkisar2017.dll
+D:\Websites\Perkisar2017\Perkisar2017\obj\Debug\Perkisar2017.pdb
